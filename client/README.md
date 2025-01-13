@@ -1,8 +1,8 @@
-# jwt-try-out
+# React + Vite
 
 run local server
 
 ```
 pnpm install
-node app.js
+pnpm dev
 ```     
