@@ -1,6 +1,16 @@
 # jwt-try-out
 
-run local server
+
+run client local server
+
+```
+pnpm install
+pnpm dev
+```
+
+&nbsp;
+
+run server local server
 
 ```
 pnpm install
